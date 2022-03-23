@@ -1,4 +1,4 @@
-# extension
+# installation :
 
 1 :
 
@@ -11,3 +11,6 @@
 3 :
 
 <p align="center"><img src="./asset/3.PNG" width="65%" height="65%" alt=""></p>
+
+4:
+mettez le lien
