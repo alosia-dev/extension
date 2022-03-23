@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Alosia Extensions",
+    "description": "Voici l'Extensions alosia !!!",
+    "version": "1.0",
+    "permissions": [
+                  "http://*/*",
+                  "https://*/*"
+    ],
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    }
+  }
