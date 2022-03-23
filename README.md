@@ -10,7 +10,7 @@
 
 3 :
 
-<p align="center"><img src="./asset/3.PNG" width="65%" height="65%" alt=""></p>
+<p align="center"><img src="./asset/3.PNG" width="65%" height="65%" alt="https://github.com/alosia-dev/extension/releases/tag/1.0"></p>
 
 4:
-mettez le lien
+mettez le lien ou vous avez télécharger le dossier : https://github.com/alosia-dev/extension/releases/tag/1.0
