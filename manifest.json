@@ -1,5 +1,17 @@
 {
-    "manifest_version": 3,
-    "name": "Alosia Extensions",
-    "description": "Voici l'Extensions alosia !!!",
-    "version": "1.0",
+  "manifest_version": 3,
+  "name": "Alosia Extensions",
+  "description": "Voici l'Extensions alosia !!!",
+  "version": "1.0",
+  "permissions": [
+  ],
+  "action": {
+    "default_icon": "https://www.zupimages.net/up/22/12/dp3u.png",
+    "default_popup": "popup.html"
+  },
+  "content_security_policy": {},
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
