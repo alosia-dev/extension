@@ -1,4 +1,4 @@
-# installation :
+# installation de l'extension:
 
 1 :
 
@@ -17,3 +17,8 @@ mettez le lien ou vous avez télécharger le dossier : https://github.com/alosia
 
 tuto : 
 https://www.youtube.com/embed/YDBJHRtqbFI
+
+
+support :
+
+https://discord.gg/QmRx2VjAaM
