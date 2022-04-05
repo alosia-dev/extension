@@ -18,3 +18,7 @@ mettez le lien ou vous avez télécharger le dossier : [ici](https://github.com/
 
 
 support :  [discord](https://discord.gg/QmRx2VjAaM)
+
+### Droit :
+
+-Vous pouvez modifiez le code et le publier seulement si vous laissez le //by alosia-dev et le nous aidez.
