@@ -17,6 +17,4 @@ mettez le lien ou vous avez télécharger le dossier : [ici](https://github.com/
 
 
 
-support :
-
-[discord](https://discord.gg/QmRx2VjAaM)
+support :  [discord](https://discord.gg/QmRx2VjAaM)
