@@ -1,6 +1,7 @@
 Bienvenue !
 
-* [installation](https://github.com/alosia-dev/extension/wiki/installation)
+dans le site web
 
-* [modifier l'extension](https://github.com/alosia-dev/extension/wiki/modifier-l'extension)
+
+
 
